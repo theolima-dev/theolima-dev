@@ -1,6 +1,6 @@
 Hi there, i'm Theo Lima !
 
-Im a full stack web developer studant and gamer. I love coding, watch animes and play some video games.
+Im a full stack web developer student and gamer. I love coding, watch animes and play some video games.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theolima-dev.visitor-badge&left_text=My%20Page%20Visitors)
 
