@@ -1,3 +1,5 @@
+Hi there, i'm Theo Lima !
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theolima-dev.visitor-badge&left_text=My%20Page%20Visitors)
 
 My GitHub Stats:
